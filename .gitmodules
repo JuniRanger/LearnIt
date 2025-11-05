@@ -10,3 +10,6 @@
 [submodule "learnit-enrollment-service"]
 	path = learnit-enrollment-service
 	url = https://github.com/JuniRanger/learnit-enrollment-service.git
+[submodule "learnit-users-service"]
+	path = learnit-users-service
+	url = https://github.com/JuniRanger/learnit-users-service.git
