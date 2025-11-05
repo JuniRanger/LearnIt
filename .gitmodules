@@ -1,0 +1,12 @@
+[submodule "learnit-api-gateway"]
+	path = learnit-api-gateway
+	url = https://github.com/JuniRanger/learnit-api-gateway.git
+[submodule "learnit-auth-service"]
+	path = learnit-auth-service
+	url = https://github.com/JuniRanger/learnit-auth-service.git
+[submodule "learnit-courses-service"]
+	path = learnit-courses-service
+	url = https://github.com/JuniRanger/learnit-courses-service.git
+[submodule "learnit-enrollment-service"]
+	path = learnit-enrollment-service
+	url = https://github.com/JuniRanger/learnit-enrollment-service.git
